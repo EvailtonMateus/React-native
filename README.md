@@ -60,9 +60,3 @@ expo start
 - **Context API**: Gerenciamento de estado global.
 - **JavaScript**: Linguagem de programação principal.
 - **CSS-in-JS (StyleSheet)**: Estilização de componentes.
-
-## 👥 Equipe <a id="equipe"></a>
-
-* [Carlos Bertran](https://github.com/hell-if)
-* [Lucas Lira](https://github.com/lucasLira24)
-* [Mylena Soares](https://github.com/mylensoares)
